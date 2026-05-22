@@ -1,0 +1,32 @@
+[
+  {
+    "nama": "GR GT Prototype",
+    "namaLatin": "Toyota GR GT Prototype",
+    "imageId": "grprototype"
+  },
+  {
+    "nama": "Dodge Viper",
+    "namaLatin": "Dodge SRT Viper",
+    "imageId": "dodgeviper"
+  },
+  {
+    "nama": "Nissan GT-R",
+    "namaLatin": "Nissan GT-R R35",
+    "imageId": "nissangtr"
+  },
+  {
+    "nama": "Nissan Nismo",
+    "namaLatin": "Nissan GT-R Nismo",
+    "imageId": "nissannismo"
+  },
+  {
+    "nama": "Dodge Sprinter",
+    "namaLatin": "Dodge Sprinter Van",
+    "imageId": "sprinter"
+  },
+  {
+    "nama": "Toyota Tacoma",
+    "namaLatin": "Toyota Tacoma TRD",
+    "imageId": "toyotatacoma"
+  }
+]

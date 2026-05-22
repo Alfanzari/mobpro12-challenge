@@ -28,5 +28,50 @@
     "nama": "Toyota Tacoma",
     "namaLatin": "Toyota Tacoma TRD",
     "imageId": "toyotatacoma"
+  },
+  {
+    "nama": "Maserati",
+    "namaLatin": "Maserati Gran Turismo",
+    "imageId": "maserati"
+  },
+  {
+    "nama": "BMW M6",
+    "namaLatin": "BMW M6 Gran Coupe",
+    "imageId": "bmwm6"
+  },
+  {
+    "nama": "Pagani Zonda",
+    "namaLatin": "Pagani Zonda R",
+    "imageId": "paganizonda"
+  },
+  {
+    "nama": "Lamborghini Aventador",
+    "namaLatin": "Lamborghini Aventador SVJ",
+    "imageId": "lamboaven"
+  },
+  {
+    "nama": "Aston Martin",
+    "namaLatin": "Aston Martin DB11",
+    "imageId": "astonmartin"
+  },
+  {
+    "nama": "Subaru BRZ",
+    "namaLatin": "Subaru BRZ Sport",
+    "imageId": "subarubrz"
+  },
+  {
+    "nama": "Mazda MX-5",
+    "namaLatin": "Mazda MX-5 Miata",
+    "imageId": "mazdamx5"
+  },
+  {
+    "nama": "Mazda RX-3",
+    "namaLatin": "Mazda RX-3 Coupe",
+    "imageId": "mazdarx3"
+  },
+  {
+    "nama": "Ford",
+    "namaLatin": "Ford Mustang GT",
+    "imageId": "ford"
   }
 ]
